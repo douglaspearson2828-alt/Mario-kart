@@ -1,0 +1,20 @@
+{
+  "name": "turbo-kart-8",
+  "version": "2.0.0",
+  "description": "Turbo Kart 8 — 3D Arcade Kart Racer (TypeScript + Vite + Three.js for GitHub Pages)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.187.0",
+    "typescript": "^5.8.0",
+    "vite": "^6.2.0"
+  }
+}
